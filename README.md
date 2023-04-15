@@ -1,1 +1,1 @@
-# odin-recipies
+#Easy-Munch-Recipes
